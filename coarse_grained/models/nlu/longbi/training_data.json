@@ -1,0 +1,3269 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "你好"
+      },
+      {
+        "intent": "greet",
+        "text": "您好"
+      },
+      {
+        "intent": "greet",
+        "text": "你好呀"
+      },
+      {
+        "intent": "greet",
+        "text": "在吗"
+      },
+      {
+        "intent": "goodbye",
+        "text": "回头见"
+      },
+      {
+        "intent": "goodbye",
+        "text": "拜拜"
+      },
+      {
+        "intent": "goodbye",
+        "text": "88"
+      },
+      {
+        "intent": "goodbye",
+        "text": "再见"
+      },
+      {
+        "intent": "thanks",
+        "text": "谢谢你"
+      },
+      {
+        "intent": "thanks",
+        "text": "谢谢哈"
+      },
+      {
+        "intent": "makeFun",
+        "text": "你不乖"
+      },
+      {
+        "intent": "makeFun",
+        "text": "你是谁呀"
+      },
+      {
+        "intent": "makeFun",
+        "text": "你的名字"
+      },
+      {
+        "intent": "makeFun",
+        "text": "你叫什么"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 不专心"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 骗人"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 挤眉弄眼"
+      },
+      {
+        "intent": "Introduction",
+        "text": "清嗓子"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 不诚实"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 黏"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 攻击"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 控制不住排尿"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 说谎"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 挤眉弄眼"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 不诚实"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 摩擦下面"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 手指"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 夹腿"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 情绪"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 手指头"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 紧张"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 感受"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 尿床"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 粘"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 不专心"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 进食"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 不诚实"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 容易走神"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 攻击"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 行走"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 尿床上"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 坐不住"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 理睬"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 挤眼睛"
+      },
+      {
+        "intent": "Introduction",
+        "text": "穿衣服"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 分离"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 胆子小"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 尿床"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 控制不住排尿"
+      },
+      {
+        "intent": "Introduction",
+        "text": "自己吃饭"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 做怪相"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 离"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 黏"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 自己吃饭"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 多动"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 尿床上"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 鼓肚子"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 分开"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 坐不住"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 进食"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 胆量小"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 自己进食"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 手指头"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 看"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 做怪相"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 手"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 胆子小"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 离"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 穿衣服"
+      },
+      {
+        "intent": "Introduction",
+        "text": "摩擦阴部"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 压力"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 打"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 行走"
+      },
+      {
+        "intent": "Introduction",
+        "text": "婴儿 情感"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 发育"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 手"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 理"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 鼓肚子"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 自己穿衣服"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 清嗓子"
+      },
+      {
+        "intent": "Introduction",
+        "text": "骗人"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 不由自主"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 撒谎"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 说谎"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 容易走神"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 不专心"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 胆小"
+      },
+      {
+        "intent": "Introduction",
+        "text": "小孩 走路"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 清嗓子"
+      },
+      {
+        "intent": "Introduction",
+        "text": "孩子 遗尿"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 紧张"
+      },
+      {
+        "intent": "Introduction",
+        "text": "娃 理睬"
+      },
+      {
+        "intent": "Introduction",
+        "text": "宝宝 夹腿"
+      },
+      {
+        "intent": "Introduction",
+        "text": "幼儿 小动作多"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "幼儿 做怪相会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "performance",
+            "start": 8,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "幼儿 自己穿衣服会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 说话是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 4,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "娃 胆小是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "娃 摩擦阴部是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "遗尿是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 手指头是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 3,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "做鬼脸是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "performance",
+            "start": 8,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 控制不住排尿会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "孩子 不诚实是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 做怪相是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 3,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 粘会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "婴儿 不诚实会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "小孩 坐不住是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "幼儿 打会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "摩擦会阴会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 14,
+            "entity": "performance",
+            "start": 9,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 注意力不集中是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 粘会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 夹腿是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "孩子 理睬是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 指甲会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 鼓肚子会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 4,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 粘是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 7,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 挤眉弄眼会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 压力是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "performance",
+            "start": 1,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "手会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "紧张是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 7,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "幼儿 摩擦会阴会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 发育是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "婴儿 说谎会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "发育是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 夹下面会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 2,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "依赖会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 1,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "手是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 走路是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "幼儿 撒谎会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 压力是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "情感是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "分开是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 撒谎是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "婴儿 黏会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "小孩 尿床上会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "挤眉弄眼会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 2,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "夹腿会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "娃 不由自主是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "小孩 不专心是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 说话是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 4,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "摩擦下面是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 胆量小是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "performance",
+            "start": 7,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 容易走神是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 4,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "摩擦阴部是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 3,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "清嗓子是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "performance",
+            "start": 7,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 自己进食是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 压力是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 尿床是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 胆子小会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 情绪会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "performance",
+            "start": 2,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "多动是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 做怪相是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 7,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 摩擦会阴会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "婴儿 手会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 感受是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "宝宝 说谎是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 5,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "娃 胆子小是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 情感会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "婴儿 发育会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "宝宝 遗尿会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 2,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "感觉会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 5,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "小孩 分离会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "幼儿 穿衣服是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "performance",
+            "start": 7,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "孩子 小动作多是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "performance",
+            "start": 4,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "小孩 看是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "小孩 手指头是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 2,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "骗人会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "孩子 夹下面会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "performance",
+            "start": 1,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "打是怎么样的"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 摩擦下面会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "performance",
+            "start": 6,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "小孩 手指头会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "performance",
+            "start": 4,
+            "value": "会怎么样"
+          }
+        ],
+        "text": "娃 理睬会怎么样"
+      },
+      {
+        "intent": "Performance",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "performance",
+            "start": 6,
+            "value": "是怎么样的"
+          }
+        ],
+        "text": "婴儿 胆子小是怎么样的"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥手指"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥不由自主"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥粘"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "孩子为什么感觉"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥自己进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥控制不住排尿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "宝宝怎么会手"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥自己吃饭"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "幼儿为啥情绪"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "小孩怎么会指甲"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "小孩为什么坐不住"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "宝宝为什么进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "小孩为什么自己进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "怎么会"
+          }
+        ],
+        "text": "娃怎么会夹腿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "幼儿为什么说谎"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么不由自主"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥多动"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "孩子为什么控制不住排尿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "reason",
+            "start": 0,
+            "value": "为啥"
+          }
+        ],
+        "text": "为啥控制不住排尿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "小孩为什么紧张"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥烦躁"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "宝宝为什么夹腿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "小孩怎么会依赖"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥不诚实"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "宝宝为啥黏"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥分开"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "怎么会"
+          }
+        ],
+        "text": "怎么会遗尿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么摩擦下面"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥看"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "宝宝为什么吃饭"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥尿床"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "孩子怎么会说谎"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥说话"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "reason",
+            "start": 0,
+            "value": "为啥"
+          }
+        ],
+        "text": "为啥摩擦会阴"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "孩子为啥感觉"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "幼儿怎么会挤眉弄眼"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "怎么会"
+          }
+        ],
+        "text": "怎么会骗人"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "婴儿为啥骗人"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "幼儿为什么压力"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "怎么会"
+          }
+        ],
+        "text": "怎么会离"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "宝宝怎么会烦躁"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "宝宝为啥不由自主"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "小孩为啥紧张"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "幼儿为什么穿衣服"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "宝宝为什么自己穿衣服"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "孩子怎么会进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么说话"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "小孩为啥尿床上"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么情绪"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "怎么会"
+          }
+        ],
+        "text": "怎么会坐不住"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "婴儿怎么会冲动"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么攻击"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么离"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么冲动"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "宝宝怎么会看"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么不由自主"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "幼儿怎么会沮丧"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "宝宝为啥骗人"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "幼儿怎么会指甲"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "孩子为什么胆量小"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "reason",
+            "start": 0,
+            "value": "为啥"
+          }
+        ],
+        "text": "为啥粘"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "宝宝为啥发育"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么手"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "小孩为什么做鬼脸"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "为什么"
+          }
+        ],
+        "text": "为什么进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么挤眉弄眼"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "幼儿为什么骗人"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "幼儿怎么会尿床上"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "幼儿为啥进食"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "小孩怎么会控制不住排尿"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "reason",
+            "start": 0,
+            "value": "为啥"
+          }
+        ],
+        "text": "为啥小动作多"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "婴儿为什么自己穿衣服"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "reason",
+            "start": 0,
+            "value": "为什么"
+          }
+        ],
+        "text": "为什么不诚实"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "宝宝为什么胆小"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "孩子怎么会挤眉弄眼"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "幼儿怎么会分离"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "为什么"
+          }
+        ],
+        "text": "幼儿为什么行走"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 2,
+            "value": "为啥"
+          }
+        ],
+        "text": "小孩为啥摩擦阴部"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "reason",
+            "start": 1,
+            "value": "为什么"
+          }
+        ],
+        "text": "娃为什么手指"
+      },
+      {
+        "intent": "Reasons",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "reason",
+            "start": 2,
+            "value": "怎么会"
+          }
+        ],
+        "text": "宝宝怎么会不诚实"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "娃坐不住能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝小动作多怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么办"
+          }
+        ],
+        "text": "幼儿攻击怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝自己进食怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "孩子烦躁有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 5,
+            "value": "如何"
+          }
+        ],
+        "text": "幼儿穿衣服如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "幼儿手指头有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "孩子压力应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "宝宝指甲能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "摩擦下面应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么办"
+          }
+        ],
+        "text": "宝宝行走怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "幼儿做怪相应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "宝宝攻击如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "婴儿鼓肚子应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "摩擦阴部应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "solution",
+            "start": 7,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "娃注意力不集中有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "孩子说话能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "幼儿发育如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "怎么办"
+          }
+        ],
+        "text": "不专心怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 2,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "行走有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "婴儿说话能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "solution",
+            "start": 3,
+            "value": "如何"
+          }
+        ],
+        "text": "穿衣服如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "能不能"
+          }
+        ],
+        "text": "娃胆小能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "幼儿紧张有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 3,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "娃手指怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝胆小怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "能不能"
+          }
+        ],
+        "text": "娃撒谎能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "小孩走路有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 5,
+            "value": "如何"
+          }
+        ],
+        "text": "宝宝不诚实如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "能不能"
+          }
+        ],
+        "text": "娃感受能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "娃做怪相能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "孩子手指怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "婴儿分开如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 5,
+            "value": "能不能"
+          }
+        ],
+        "text": "婴儿胆子小能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "solution",
+            "start": 6,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "婴儿摩擦阴部应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "娃胆量小如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "孩子挤眉弄眼怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝遗尿怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "能不能"
+          }
+        ],
+        "text": "小孩看能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "婴儿撒谎如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么办"
+          }
+        ],
+        "text": "幼儿情绪怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 5,
+            "value": "怎么办"
+          }
+        ],
+        "text": "小孩不专心怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 3,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "娃行走怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "婴儿不由自主怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 5,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "婴儿坐不住怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么办"
+          }
+        ],
+        "text": "孩子摩擦阴部怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝分开怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "婴儿分开有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 5,
+            "value": "能不能"
+          }
+        ],
+        "text": "婴儿坐不住能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "孩子胆子小有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 6,
+            "value": "能不能"
+          }
+        ],
+        "text": "宝宝摩擦下面能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "宝宝发育能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 5,
+            "value": "如何"
+          }
+        ],
+        "text": "婴儿穿衣服如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "solution",
+            "start": 2,
+            "value": "如何"
+          }
+        ],
+        "text": "说话如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 3,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "娃情绪怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "幼儿尿床上应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 2,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "压力怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "婴儿不诚实应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 6,
+            "value": "如何"
+          }
+        ],
+        "text": "注意力不集中如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 6,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "小孩摩擦阴部怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 4,
+            "value": "如何"
+          }
+        ],
+        "text": "宝宝骗人如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "solution",
+            "start": 2,
+            "value": "能不能"
+          }
+        ],
+        "text": "理睬能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "solution",
+            "start": 5,
+            "value": "有什么办法"
+          }
+        ],
+        "text": "小孩不诚实有什么办法"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "幼儿紧张能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 1,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "打应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "婴儿走路怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 7,
+            "value": "如何"
+          }
+        ],
+        "text": "婴儿自己穿衣服如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "solution",
+            "start": 3,
+            "value": "能不能"
+          }
+        ],
+        "text": "孩子离能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "娃做怪相应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 5,
+            "value": "怎么办"
+          }
+        ],
+        "text": "小孩清嗓子怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "solution",
+            "start": 1,
+            "value": "如何"
+          }
+        ],
+        "text": "理如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么办"
+          }
+        ],
+        "text": "宝宝沮丧怎么办"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "宝宝说话怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "solution",
+            "start": 2,
+            "value": "如何"
+          }
+        ],
+        "text": "遗尿如何"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "solution",
+            "start": 2,
+            "value": "能不能"
+          }
+        ],
+        "text": "说谎能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "solution",
+            "start": 4,
+            "value": "能不能"
+          }
+        ],
+        "text": "摩擦阴部能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 6,
+            "value": "能不能"
+          }
+        ],
+        "text": "孩子自己进食能不能"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "宝宝说话应该怎么做"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "solution",
+            "start": 4,
+            "value": "怎么解决"
+          }
+        ],
+        "text": "孩子行走怎么解决"
+      },
+      {
+        "intent": "Solution",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "solution",
+            "start": 4,
+            "value": "应该怎么做"
+          }
+        ],
+        "text": "小孩情感应该怎么做"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

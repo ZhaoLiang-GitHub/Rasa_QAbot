@@ -1,0 +1,60 @@
+%YAML 1.1
+---
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- utter_thanks
+- action_query_Performance
+- action_query_Reasons
+- action_query_Solution
+- action_query_Introduction
+actions:
+- utter_greet
+- utter_goodbye
+- utter_thanks
+- botAction.Performance
+- botAction.Reasons
+- botAction.Solution
+- botAction.Introduction
+config:
+  store_entities_as_slots: true
+entities:
+- person
+- question
+- age
+- genda
+intents:
+- Performance:
+    use_entities: true
+- Reasons:
+    use_entities: true
+- Solution:
+    use_entities: true
+- Introduction:
+    use_entities: true
+slots:
+  age:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  genda:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  person:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  question:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_goodbye:
+  - text: 再见，为您服务很开心
+  utter_greet:
+  - buttons:
+    - payload: 你是谁呀.
+      title: 隆鼻
+    - payload: 你是谁呀.
+      title: 双眼皮
+    text: Hi,我是小艾，您的美丽顾问。你想咨询什么呢?
+  utter_thanks:
+  - text: 不客气.我应该做的,您开心我就开心

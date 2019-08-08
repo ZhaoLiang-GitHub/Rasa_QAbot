@@ -1,0 +1,26 @@
+{
+  "states": [
+    "intent_Introduction",
+    "intent_Performance",
+    "intent_Reasons",
+    "intent_Solution",
+    "entity_person",
+    "entity_question",
+    "entity_age",
+    "entity_genda",
+    "slot_age_0",
+    "slot_genda_0",
+    "slot_person_0",
+    "slot_question_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_utter_thanks",
+    "prev_action_query_Performance",
+    "prev_action_query_Reasons",
+    "prev_action_query_Solution",
+    "prev_action_query_Introduction"
+  ]
+}

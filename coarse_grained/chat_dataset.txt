@@ -1,0 +1,150 @@
+%[greet]('training': '5','testing': '1')
+    ~[greet]
+%[goodbye]('training': '4', 'testing': '1')
+    ~[goodbye]
+%[thanks]('training': '2', 'testing': '2')
+    ~[thanks]
+%[makeFun]('training': '4', 'testing': '1')
+    ~[makefun]
+
+%[Introduction]('training': '80', 'testing': '1')
+    ~[child?] ~[introduction]
+
+%[Performance]('training': '80', 'testing': '1')
+    ~[child?] ~[introduction]@[performance]
+
+%[Reasons]('training': '80', 'testing': '1')
+    ~[child?]@[reason]~[introduction]
+
+%[Solution]('training': '80', 'testing': '1')
+    ~[child?]~[introduction]@[solution]
+
+
+~[goodbye]
+    再见
+    拜拜
+    回头见
+    拜拜了
+    拜拜您咧
+    88
+~[greet]
+    hey
+    hi
+    hello
+    你好
+    您好
+    你好呀
+    在吗
+    人呢
+~[thanks]
+    谢谢你
+    谢谢哈
+    感谢
+    非常感谢
+    多谢
+    谢了
+    好的，多谢
+    好的，谢谢
+~[makefun]
+    你是谁呀
+    你叫什么
+    你是男是女
+    你不乖
+    你的名字
+
+@[performance]
+    是怎么样的
+    会怎么样
+    表现
+@[reason]
+    为什么
+    怎么会
+    为啥
+@[solution]
+    怎么办
+    有什么办法
+    应该怎么做
+    怎么解决
+    如何
+    能不能 
+~[child]
+    孩子
+    小孩
+    宝宝
+    婴儿
+    幼儿
+    娃
+
+~[introduction]
+    胆小
+    胆子小
+    胆量小
+    冲动
+    攻击
+    打
+    尿床
+    遗尿
+    尿床上
+    控制不住排尿
+    不由自主
+
+    感受
+    情绪
+    感觉
+    情感
+
+    撒谎
+    说谎
+    骗人
+    不诚实
+    夹腿
+    夹下面    
+    摩擦会阴
+    摩擦阴部
+    摩擦下面
+
+    看
+    理
+    理睬
+
+    指甲
+    手指头
+    手
+    手指
+
+    多动
+    不专心
+    注意力不集中
+    小动作多
+    容易走神
+    坐不住
+
+    挤眉弄眼
+    做鬼脸
+    挤眼睛
+    做怪相
+    清嗓子
+    鼓肚子
+
+    压力
+    紧张
+    烦躁
+    沮丧
+
+    分离
+    分开
+    离  
+
+    走路
+    行走
+    说话
+    发育
+    穿衣服
+    进食
+    吃饭
+    自己穿衣服
+    自己吃饭
+    自己进食
+    依赖
+    粘
+    黏

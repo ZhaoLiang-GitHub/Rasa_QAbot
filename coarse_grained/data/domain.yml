@@ -1,0 +1,44 @@
+slots:
+  person:
+    type: text
+  age:
+    type: text
+  question:
+    type: text
+  genda:
+    type: text
+intents:
+  - Performance
+  - Reasons
+  - Solution
+  - Introduction
+  
+entities:
+  - person
+  - question
+  - age
+  - genda
+
+templates: 
+  
+  utter_greet:
+    - text: "Hi,我是小艾，您的美丽顾问。你想咨询什么呢?"
+      buttons:
+      - title: "隆鼻"
+        payload: '你是谁呀.'
+      - title: "双眼皮"
+        payload: '你是谁呀.' 
+  utter_goodbye:
+    - text: "再见，为您服务很开心"
+  utter_thanks:
+    - text: "不客气.我应该做的,您开心我就开心"
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_thanks
+  - botAction.Performance
+  - botAction.Reasons
+  - botAction.Solution
+  - botAction.Introduction
+  
