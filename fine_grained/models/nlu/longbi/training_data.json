@@ -1,0 +1,3369 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "宝宝粘亲人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "孩子依赖外公"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "小孩依赖爸爸"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "宝宝粘人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "小孩粘别人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "rely_on",
+            "start": 1,
+            "value": "粘"
+          }
+        ],
+        "text": "娃粘父母"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "幼儿粘妈妈"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "黏"
+          }
+        ],
+        "text": "婴儿黏外公"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "小孩依赖爷爷"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "小孩粘我们"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "粘"
+          }
+        ],
+        "text": "幼儿粘别人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "黏"
+          }
+        ],
+        "text": "婴儿黏父母"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 1,
+            "entity": "rely_on",
+            "start": 0,
+            "value": "黏"
+          }
+        ],
+        "text": "黏我们"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "幼儿依赖爸爸"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "黏"
+          }
+        ],
+        "text": "孩子黏外婆"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "黏"
+          }
+        ],
+        "text": "小孩黏"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "黏"
+          }
+        ],
+        "text": "婴儿黏奶奶"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "小孩依赖别人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "幼儿依赖别人"
+      },
+      {
+        "intent": "1_Relying_on_parents",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "rely_on",
+            "start": 2,
+            "value": "依赖"
+          }
+        ],
+        "text": "婴儿依赖外婆"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "nails",
+            "start": 1,
+            "value": "手"
+          }
+        ],
+        "text": "啃手"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "nails",
+            "start": 3,
+            "value": "手"
+          }
+        ],
+        "text": "婴儿啃手"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指头"
+          }
+        ],
+        "text": "幼儿啃手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指"
+          }
+        ],
+        "text": "小孩啃手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "指甲"
+          }
+        ],
+        "text": "宝宝啃指甲"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指"
+          }
+        ],
+        "text": "宝宝啃手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "nails",
+            "start": 3,
+            "value": "手"
+          }
+        ],
+        "text": "宝宝咬手"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 2,
+            "value": "手指头"
+          }
+        ],
+        "text": "娃咬手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "nails",
+            "start": 1,
+            "value": "指甲"
+          }
+        ],
+        "text": "咬指甲"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指"
+          }
+        ],
+        "text": "小孩咬手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "nails",
+            "start": 1,
+            "value": "手指"
+          }
+        ],
+        "text": "啃手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指头"
+          }
+        ],
+        "text": "宝宝啃手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "nails",
+            "start": 1,
+            "value": "手指头"
+          }
+        ],
+        "text": "咬手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指"
+          }
+        ],
+        "text": "孩子啃手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "nails",
+            "start": 1,
+            "value": "手指头"
+          }
+        ],
+        "text": "啃手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "指甲"
+          }
+        ],
+        "text": "宝宝咬指甲"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指"
+          }
+        ],
+        "text": "幼儿啃手指"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "nails",
+            "start": 3,
+            "value": "指甲"
+          }
+        ],
+        "text": "小孩啃指甲"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指头"
+          }
+        ],
+        "text": "小孩啃手指头"
+      },
+      {
+        "intent": "2_Biting_nails",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "nails",
+            "start": 3,
+            "value": "手指头"
+          }
+        ],
+        "text": "宝宝咬手指头"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 2,
+            "value": "不诚实"
+          }
+        ],
+        "text": "娃爱不诚实"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "撒谎"
+          }
+        ],
+        "text": "孩子爱撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "骗人"
+          }
+        ],
+        "text": "宝宝爱骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "lie",
+            "start": 2,
+            "value": "撒谎"
+          }
+        ],
+        "text": "喜欢撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 4,
+            "value": "骗人"
+          }
+        ],
+        "text": "小孩喜欢骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 4,
+            "value": "撒谎"
+          }
+        ],
+        "text": "小孩喜欢撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "撒谎"
+          }
+        ],
+        "text": "幼儿爱撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 3,
+            "value": "不诚实"
+          }
+        ],
+        "text": "幼儿爱不诚实"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "lie",
+            "start": 1,
+            "value": "撒谎"
+          }
+        ],
+        "text": "爱撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "说谎"
+          }
+        ],
+        "text": "婴儿爱说谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "lie",
+            "start": 2,
+            "value": "骗人"
+          }
+        ],
+        "text": "喜欢骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "骗人"
+          }
+        ],
+        "text": "娃喜欢骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 4,
+            "value": "撒谎"
+          }
+        ],
+        "text": "婴儿喜欢撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "lie",
+            "start": 2,
+            "value": "说谎"
+          }
+        ],
+        "text": "娃爱说谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 4,
+            "value": "骗人"
+          }
+        ],
+        "text": "宝宝喜欢骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 2,
+            "value": "不诚实"
+          }
+        ],
+        "text": "喜欢不诚实"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "lie",
+            "start": 4,
+            "value": "不诚实"
+          }
+        ],
+        "text": "婴儿喜欢不诚实"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "lie",
+            "start": 3,
+            "value": "撒谎"
+          }
+        ],
+        "text": "婴儿爱撒谎"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "lie",
+            "start": 2,
+            "value": "骗人"
+          }
+        ],
+        "text": "娃爱骗人"
+      },
+      {
+        "intent": "3_Like_lies",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "lie",
+            "start": 4,
+            "value": "撒谎"
+          }
+        ],
+        "text": "宝宝喜欢撒谎"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 1,
+            "value": "胆子小"
+          }
+        ],
+        "text": "娃胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆子小"
+          }
+        ],
+        "text": "孩子胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆小"
+          }
+        ],
+        "text": "幼儿胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆子小"
+          }
+        ],
+        "text": "婴儿胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆量小"
+          }
+        ],
+        "text": "孩子胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆量小"
+          }
+        ],
+        "text": "幼儿胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆量小"
+          }
+        ],
+        "text": "宝宝胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆小"
+          }
+        ],
+        "text": "宝宝胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆小"
+          }
+        ],
+        "text": "小孩胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "afraid",
+            "start": 1,
+            "value": "胆小"
+          }
+        ],
+        "text": "娃胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆小"
+          }
+        ],
+        "text": "孩子胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆量小"
+          }
+        ],
+        "text": "婴儿胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 1,
+            "value": "胆量小"
+          }
+        ],
+        "text": "娃胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "afraid",
+            "start": 0,
+            "value": "胆小"
+          }
+        ],
+        "text": "胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "afraid",
+            "start": 0,
+            "value": "胆子小"
+          }
+        ],
+        "text": "胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆小"
+          }
+        ],
+        "text": "婴儿胆小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆量小"
+          }
+        ],
+        "text": "小孩胆量小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆子小"
+          }
+        ],
+        "text": "幼儿胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "afraid",
+            "start": 2,
+            "value": "胆子小"
+          }
+        ],
+        "text": "小孩胆子小"
+      },
+      {
+        "intent": "4_Too_afraid",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "afraid",
+            "start": 0,
+            "value": "胆量小"
+          }
+        ],
+        "text": "胆量小"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "婴儿分开爷爷"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "婴儿分开奶奶"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "小孩离妈妈"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "seperate",
+            "start": 1,
+            "value": "离"
+          }
+        ],
+        "text": "娃离奶奶"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "幼儿离亲人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "seperate",
+            "start": 1,
+            "value": "离"
+          }
+        ],
+        "text": "娃离别人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 1,
+            "value": "分开"
+          }
+        ],
+        "text": "娃分开爸爸"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 1,
+            "entity": "seperate",
+            "start": 0,
+            "value": "离"
+          }
+        ],
+        "text": "离奶奶"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分离"
+          }
+        ],
+        "text": "小孩分离亲人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 1,
+            "value": "分开"
+          }
+        ],
+        "text": "娃分开奶奶"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 1,
+            "value": "分开"
+          }
+        ],
+        "text": "娃分开亲人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "孩子离外婆"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "seperate",
+            "start": 1,
+            "value": "离"
+          }
+        ],
+        "text": "娃离外公"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "幼儿分开外公"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "宝宝分开别人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "宝宝分开父母"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "婴儿离亲人"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "幼儿离我们"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "seperate",
+            "start": 2,
+            "value": "分开"
+          }
+        ],
+        "text": "婴儿分开我们"
+      },
+      {
+        "intent": "5_Afriad_separation",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "seperate",
+            "start": 2,
+            "value": "离"
+          }
+        ],
+        "text": "幼儿离"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "夹腿"
+          }
+        ],
+        "text": "婴儿夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "夹腿"
+          }
+        ],
+        "text": "小孩夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "婴儿摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 0,
+            "value": "摩擦下面"
+          }
+        ],
+        "text": "摩擦下面"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "jiatui",
+            "start": 1,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "娃摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "jiatui",
+            "start": 1,
+            "value": "夹腿"
+          }
+        ],
+        "text": "娃夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "小孩摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦下面"
+          }
+        ],
+        "text": "宝宝摩擦下面"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "夹腿"
+          }
+        ],
+        "text": "孩子夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "宝宝摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "夹腿"
+          }
+        ],
+        "text": "宝宝夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 0,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "夹腿"
+          }
+        ],
+        "text": "幼儿夹腿"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦阴部"
+          }
+        ],
+        "text": "孩子摩擦阴部"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "jiatui",
+            "start": 1,
+            "value": "摩擦会阴"
+          }
+        ],
+        "text": "娃摩擦会阴"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "jiatui",
+            "start": 0,
+            "value": "夹下面"
+          }
+        ],
+        "text": "夹下面"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦会阴"
+          }
+        ],
+        "text": "婴儿摩擦会阴"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦下面"
+          }
+        ],
+        "text": "婴儿摩擦下面"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦会阴"
+          }
+        ],
+        "text": "孩子摩擦会阴"
+      },
+      {
+        "intent": "6_Jiatui",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "jiatui",
+            "start": 2,
+            "value": "摩擦下面"
+          }
+        ],
+        "text": "幼儿摩擦下面"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "遗尿"
+          }
+        ],
+        "text": "宝宝遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "尿床上"
+          }
+        ],
+        "text": "孩子尿床上"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "不由自主"
+          }
+        ],
+        "text": "幼儿不由自主"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "bedwett",
+            "start": 1,
+            "value": "遗尿"
+          }
+        ],
+        "text": "娃遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "尿床上"
+          }
+        ],
+        "text": "幼儿尿床上"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "bedwett",
+            "start": 1,
+            "value": "控制不住排尿"
+          }
+        ],
+        "text": "娃控制不住排尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "不由自主"
+          }
+        ],
+        "text": "婴儿不由自主"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "不由自主"
+          }
+        ],
+        "text": "宝宝不由自主"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "不由自主"
+          }
+        ],
+        "text": "孩子不由自主"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "控制不住排尿"
+          }
+        ],
+        "text": "幼儿控制不住排尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "遗尿"
+          }
+        ],
+        "text": "幼儿遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 0,
+            "value": "控制不住排尿"
+          }
+        ],
+        "text": "控制不住排尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "bedwett",
+            "start": 0,
+            "value": "遗尿"
+          }
+        ],
+        "text": "遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "遗尿"
+          }
+        ],
+        "text": "小孩遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "不由自主"
+          }
+        ],
+        "text": "小孩不由自主"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "遗尿"
+          }
+        ],
+        "text": "孩子遗尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "bedwett",
+            "start": 1,
+            "value": "尿床上"
+          }
+        ],
+        "text": "娃尿床上"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "控制不住排尿"
+          }
+        ],
+        "text": "婴儿控制不住排尿"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "尿床上"
+          }
+        ],
+        "text": "婴儿尿床上"
+      },
+      {
+        "intent": "7_Bedwetting",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "bedwett",
+            "start": 2,
+            "value": "尿床上"
+          }
+        ],
+        "text": "小孩尿床上"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "move",
+            "start": 2,
+            "value": "坐不住"
+          }
+        ],
+        "text": "孩子坐不住"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "move",
+            "start": 0,
+            "value": "坐不住"
+          }
+        ],
+        "text": "坐不住"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "move",
+            "start": 0,
+            "value": "注意力不集中"
+          }
+        ],
+        "text": "注意力不集中"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 2,
+            "value": "多动"
+          }
+        ],
+        "text": "婴儿多动"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "move",
+            "start": 0,
+            "value": "多动"
+          }
+        ],
+        "text": "多动"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "move",
+            "start": 2,
+            "value": "注意力不集中"
+          }
+        ],
+        "text": "幼儿注意力不集中"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 0,
+            "value": "容易走神"
+          }
+        ],
+        "text": "容易走神"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "move",
+            "start": 2,
+            "value": "小动作多"
+          }
+        ],
+        "text": "小孩小动作多"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 1,
+            "value": "不专心"
+          }
+        ],
+        "text": "娃不专心"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 0,
+            "value": "小动作多"
+          }
+        ],
+        "text": "小动作多"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 2,
+            "value": "多动"
+          }
+        ],
+        "text": "小孩多动"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 2,
+            "value": "多动"
+          }
+        ],
+        "text": "孩子多动"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "move",
+            "start": 1,
+            "value": "注意力不集中"
+          }
+        ],
+        "text": "娃注意力不集中"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "move",
+            "start": 1,
+            "value": "容易走神"
+          }
+        ],
+        "text": "娃容易走神"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "move",
+            "start": 1,
+            "value": "坐不住"
+          }
+        ],
+        "text": "娃坐不住"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "move",
+            "start": 2,
+            "value": "容易走神"
+          }
+        ],
+        "text": "孩子容易走神"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "move",
+            "start": 2,
+            "value": "注意力不集中"
+          }
+        ],
+        "text": "孩子注意力不集中"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "move",
+            "start": 0,
+            "value": "不专心"
+          }
+        ],
+        "text": "不专心"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "move",
+            "start": 2,
+            "value": "不专心"
+          }
+        ],
+        "text": "幼儿不专心"
+      },
+      {
+        "intent": "8_Not_concentrate",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "move",
+            "start": 2,
+            "value": "不专心"
+          }
+        ],
+        "text": "孩子不专心"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 10,
+            "entity": "makeface",
+            "start": 6,
+            "value": "挤眉弄眼"
+          }
+        ],
+        "text": "婴儿不由自主挤眉弄眼"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "makeface",
+            "start": 2,
+            "value": "鼓肚子"
+          }
+        ],
+        "text": "过份鼓肚子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "挤眼睛"
+          }
+        ],
+        "text": "小孩很挤眼睛"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "makeface",
+            "start": 2,
+            "value": "做鬼脸"
+          }
+        ],
+        "text": "娃太做鬼脸"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "挤眼睛"
+          }
+        ],
+        "text": "幼儿爱挤眼睛"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "makeface",
+            "start": 6,
+            "value": "清嗓子"
+          }
+        ],
+        "text": "宝宝不由自主清嗓子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "makeface",
+            "start": 2,
+            "value": "鼓肚子"
+          }
+        ],
+        "text": "婴儿鼓肚子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "makeface",
+            "start": 3,
+            "value": "挤眉弄眼"
+          }
+        ],
+        "text": "小孩爱挤眉弄眼"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "makeface",
+            "start": 6,
+            "value": "挤眼睛"
+          }
+        ],
+        "text": "孩子不自主的挤眼睛"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "makeface",
+            "start": 4,
+            "value": "清嗓子"
+          }
+        ],
+        "text": "婴儿总是清嗓子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "makeface",
+            "start": 3,
+            "value": "挤眉弄眼"
+          }
+        ],
+        "text": "幼儿很挤眉弄眼"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "makeface",
+            "start": 6,
+            "value": "鼓肚子"
+          }
+        ],
+        "text": "幼儿不由自主鼓肚子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "makeface",
+            "start": 0,
+            "value": "挤眼睛"
+          }
+        ],
+        "text": "挤眼睛"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "做怪相"
+          }
+        ],
+        "text": "宝宝易做怪相"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "makeface",
+            "start": 2,
+            "value": "鼓肚子"
+          }
+        ],
+        "text": "娃还鼓肚子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "鼓肚子"
+          }
+        ],
+        "text": "幼儿爱鼓肚子"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "做怪相"
+          }
+        ],
+        "text": "幼儿易做怪相"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "挤眼睛"
+          }
+        ],
+        "text": "娃过份挤眼睛"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "makeface",
+            "start": 2,
+            "value": "做怪相"
+          }
+        ],
+        "text": "容易做怪相"
+      },
+      {
+        "intent": "9_Make_funny_face",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "makeface",
+            "start": 3,
+            "value": "做怪相"
+          }
+        ],
+        "text": "婴儿爱做怪相"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "行走"
+          }
+        ],
+        "text": "不会行走"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "穿衣服"
+          }
+        ],
+        "text": "幼儿穿衣服迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "说话"
+          }
+        ],
+        "text": "宝宝说话迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "talk_or_walk",
+            "start": 4,
+            "value": "自己进食"
+          }
+        ],
+        "text": "幼儿不会自己进食"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "行走"
+          }
+        ],
+        "text": "孩子行走迟"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "行走"
+          }
+        ],
+        "text": "小孩行走迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "talk_or_walk",
+            "start": 4,
+            "value": "发育"
+          }
+        ],
+        "text": "孩子不会发育"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "走路"
+          }
+        ],
+        "text": "婴儿走路晚"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "talk_or_walk",
+            "start": 3,
+            "value": "穿衣服"
+          }
+        ],
+        "text": "宝宝不穿衣服"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 0,
+            "value": "自己吃饭"
+          }
+        ],
+        "text": "自己吃饭晚"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "说话"
+          }
+        ],
+        "text": "幼儿说话晚"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "talk_or_walk",
+            "start": 3,
+            "value": "自己吃饭"
+          }
+        ],
+        "text": "婴儿不自己吃饭"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "发育"
+          }
+        ],
+        "text": "宝宝发育迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "talk_or_walk",
+            "start": 4,
+            "value": "自己穿衣服"
+          }
+        ],
+        "text": "幼儿不会自己穿衣服"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "行走"
+          }
+        ],
+        "text": "幼儿行走迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "吃饭"
+          }
+        ],
+        "text": "婴儿吃饭迟"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "talk_or_walk",
+            "start": 3,
+            "value": "吃饭"
+          }
+        ],
+        "text": "娃不会吃饭"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "自己进食"
+          }
+        ],
+        "text": "婴儿自己进食迟缓"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "走路"
+          }
+        ],
+        "text": "不会走路"
+      },
+      {
+        "intent": "10_Too_late",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "talk_or_walk",
+            "start": 2,
+            "value": "走路"
+          }
+        ],
+        "text": "小孩走路迟"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "幼儿不看爷爷"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "note",
+            "start": 2,
+            "value": "看"
+          }
+        ],
+        "text": "不会看奶奶"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "幼儿不看亲人"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "婴儿不看我们"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "note",
+            "start": 1,
+            "value": "看"
+          }
+        ],
+        "text": "不看爷爷"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "小孩不看外婆"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "note",
+            "start": 2,
+            "value": "看"
+          }
+        ],
+        "text": "不会看我们"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "理"
+          }
+        ],
+        "text": "娃不会理妈妈"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "note",
+            "start": 2,
+            "value": "理"
+          }
+        ],
+        "text": "娃不理亲人"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "note",
+            "start": 4,
+            "value": "理睬"
+          }
+        ],
+        "text": "婴儿不会理睬爷爷"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "理"
+          }
+        ],
+        "text": "婴儿不理妈妈"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "理"
+          }
+        ],
+        "text": "娃不会理外公"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 2,
+            "value": "理睬"
+          }
+        ],
+        "text": "娃不理睬亲人"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "宝宝不看亲人"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "note",
+            "start": 3,
+            "value": "理睬"
+          }
+        ],
+        "text": "小孩不理睬外婆"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "note",
+            "start": 4,
+            "value": "理睬"
+          }
+        ],
+        "text": "宝宝不会理睬爷爷"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "note",
+            "start": 3,
+            "value": "看"
+          }
+        ],
+        "text": "孩子不看外公"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "note",
+            "start": 2,
+            "value": "看"
+          }
+        ],
+        "text": "娃不看奶奶"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "note",
+            "start": 3,
+            "value": "理睬"
+          }
+        ],
+        "text": "宝宝不理睬外公"
+      },
+      {
+        "intent": "11_Ignore",
+        "entities": [
+          {
+            "end": 5,
+            "entity": "note",
+            "start": 4,
+            "value": "理"
+          }
+        ],
+        "text": "宝宝不会理父母"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 1,
+            "entity": "attack",
+            "start": 0,
+            "value": "打"
+          }
+        ],
+        "text": "打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 2,
+            "value": "打"
+          }
+        ],
+        "text": "小孩打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 1,
+            "value": "冲动"
+          }
+        ],
+        "text": "娃冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "attack",
+            "start": 1,
+            "value": "打"
+          }
+        ],
+        "text": "娃打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 1,
+            "value": "攻击"
+          }
+        ],
+        "text": "娃攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "attack",
+            "start": 0,
+            "value": "攻击"
+          }
+        ],
+        "text": "攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "攻击"
+          }
+        ],
+        "text": "小孩攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "冲动"
+          }
+        ],
+        "text": "幼儿冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "冲动"
+          }
+        ],
+        "text": "小孩冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "攻击"
+          }
+        ],
+        "text": "孩子攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "攻击"
+          }
+        ],
+        "text": "幼儿攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 2,
+            "value": "打"
+          }
+        ],
+        "text": "幼儿打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "冲动"
+          }
+        ],
+        "text": "婴儿冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 2,
+            "value": "打"
+          }
+        ],
+        "text": "婴儿打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "attack",
+            "start": 0,
+            "value": "冲动"
+          }
+        ],
+        "text": "冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 2,
+            "value": "打"
+          }
+        ],
+        "text": "宝宝打"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "攻击"
+          }
+        ],
+        "text": "婴儿攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "冲动"
+          }
+        ],
+        "text": "宝宝冲动"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "attack",
+            "start": 2,
+            "value": "攻击"
+          }
+        ],
+        "text": "宝宝攻击"
+      },
+      {
+        "intent": "12_Too_rude",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "attack",
+            "start": 2,
+            "value": "打"
+          }
+        ],
+        "text": "孩子打"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "pressure",
+            "start": 1,
+            "value": "压力"
+          }
+        ],
+        "text": "娃压力"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "沮丧"
+          }
+        ],
+        "text": "幼儿沮丧"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "紧张"
+          }
+        ],
+        "text": "宝宝紧张"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "压力"
+          }
+        ],
+        "text": "幼儿压力"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "pressure",
+            "start": 1,
+            "value": "沮丧"
+          }
+        ],
+        "text": "娃沮丧"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "压力"
+          }
+        ],
+        "text": "宝宝压力"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "压力"
+          }
+        ],
+        "text": "婴儿压力"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "烦躁"
+          }
+        ],
+        "text": "孩子烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "烦躁"
+          }
+        ],
+        "text": "宝宝烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "沮丧"
+          }
+        ],
+        "text": "宝宝沮丧"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "烦躁"
+          }
+        ],
+        "text": "小孩烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "pressure",
+            "start": 0,
+            "value": "烦躁"
+          }
+        ],
+        "text": "烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "烦躁"
+          }
+        ],
+        "text": "幼儿烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "pressure",
+            "start": 0,
+            "value": "沮丧"
+          }
+        ],
+        "text": "沮丧"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "紧张"
+          }
+        ],
+        "text": "幼儿紧张"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "烦躁"
+          }
+        ],
+        "text": "婴儿烦躁"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "pressure",
+            "start": 1,
+            "value": "紧张"
+          }
+        ],
+        "text": "娃紧张"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "沮丧"
+          }
+        ],
+        "text": "婴儿沮丧"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "紧张"
+          }
+        ],
+        "text": "小孩紧张"
+      },
+      {
+        "intent": "13_How_pressure",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "pressure",
+            "start": 2,
+            "value": "沮丧"
+          }
+        ],
+        "text": "孩子沮丧"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "feeling",
+            "start": 0,
+            "value": "情绪"
+          }
+        ],
+        "text": "情绪"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "情感"
+          }
+        ],
+        "text": "幼儿情感"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "feeling",
+            "start": 0,
+            "value": "情感"
+          }
+        ],
+        "text": "情感"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "feeling",
+            "start": 1,
+            "value": "感受"
+          }
+        ],
+        "text": "娃感受"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "情绪"
+          }
+        ],
+        "text": "婴儿情绪"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "情绪"
+          }
+        ],
+        "text": "孩子情绪"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "情绪"
+          }
+        ],
+        "text": "幼儿情绪"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "feeling",
+            "start": 1,
+            "value": "感觉"
+          }
+        ],
+        "text": "娃感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "feeling",
+            "start": 0,
+            "value": "感受"
+          }
+        ],
+        "text": "感受"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感受"
+          }
+        ],
+        "text": "小孩感受"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感受"
+          }
+        ],
+        "text": "婴儿感受"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感受"
+          }
+        ],
+        "text": "孩子感受"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "feeling",
+            "start": 1,
+            "value": "情感"
+          }
+        ],
+        "text": "娃情感"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感觉"
+          }
+        ],
+        "text": "孩子感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感觉"
+          }
+        ],
+        "text": "宝宝感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感觉"
+          }
+        ],
+        "text": "小孩感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 2,
+            "entity": "feeling",
+            "start": 0,
+            "value": "感觉"
+          }
+        ],
+        "text": "感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感觉"
+          }
+        ],
+        "text": "婴儿感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "感觉"
+          }
+        ],
+        "text": "幼儿感觉"
+      },
+      {
+        "intent": "14_How_express",
+        "entities": [
+          {
+            "end": 4,
+            "entity": "feeling",
+            "start": 2,
+            "value": "情感"
+          }
+        ],
+        "text": "孩子情感"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

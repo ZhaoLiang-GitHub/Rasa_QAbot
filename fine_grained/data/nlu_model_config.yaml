@@ -1,0 +1,24 @@
+language: "zh"
+
+pipeline:
+language: "zh"
+
+pipeline:
+# - name: "nlp_spacy"
+#   model: "zh"
+# - name: "tokenizer_jieba"
+# - name: "intent_entity_featurizer_regex"
+# - name: "intent_featurizer_spacy"
+# - name: "ner_crf"
+# - name: "ner_synonyms"
+# - name: "intent_classifier_tensorflow_embedding"
+
+- name: "tokenizer_jieba"
+- name: "ner_crf"
+#- name: "ner_duckling"
+#  language: "zh$core"
+#  dimensions: [ "time", "number", "duration", "phone-number"]
+- name: "intent_featurizer_count_vectors"
+  OOV_token: oov
+  token_pattern: '(?u)\b\w+\b'
+- name: "intent_classifier_tensorflow_embedding"

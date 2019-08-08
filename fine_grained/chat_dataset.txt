@@ -1,0 +1,177 @@
+%[1_Relying_on_parents]('training': '20', 'testing': '1')
+    ~[child?]@[rely_on]~[person?]
+%[2_Biting_nails]('training': '20', 'testing': '1')
+    ~[child?]~[bit]@[nails]
+%[3_Like_lies]('training': '20', 'testing': '1')
+    ~[child?]~[like]@[lie] 
+%[4_Too_afraid]('training': '20', 'testing': '1')
+    ~[child?]@[afraid] 
+%[5_Afriad_separation]('training': '20', 'testing': '1')
+    ~[child?]@[seperate]~[person?]
+%[6_Jiatui]('training': '20', 'testing': '1')
+    ~[child?]@[jiatui]
+%[7_Bedwetting]('training': '20', 'testing': '1')
+    ~[child?]@[bedwett] 
+%[8_Not_concentrate]('training': '20', 'testing': '1')
+    ~[child?]@[move]
+%[9_Make_funny_face]('training': '20', 'testing': '1')
+    ~[child?]~[always?]@[makeface]
+%[10_Too_late]('training': '20', 'testing': '1')
+    ~[child?]@[talk_or_walk]~[late]
+    ~[child?]~[no]@[talk_or_walk]
+%[11_Ignore]('training': '20', 'testing': '1')
+    ~[child?]~[no]@[note]~[person]
+%[12_Too_rude]('training': '20', 'testing': '1')
+    ~[child?]@[attack] 
+%[13_How_pressure]('training': '20', 'testing': '1')
+    ~[child?]@[pressure]
+%[14_How_express]('training': '20', 'testing': '1')
+    ~[child?]@[feeling]
+
+
+
+
+
+~[always]
+    过度
+    总是
+    过份
+    爱
+    很
+    非常
+    太
+    容易
+    易
+    还
+    不自主的
+    不由自主
+
+~[child]
+    孩子
+    小孩
+    宝宝
+    婴儿
+    幼儿
+    娃
+~[bit]
+    咬
+    啃
+~[like]
+    爱
+    喜欢
+~[no]
+    不
+    不会
+~[person]
+    人
+    别人
+    亲人
+    父母
+    妈妈
+    爸爸
+    爷爷
+    奶奶
+    外公
+    外婆
+    我们
+~[late]
+    晚
+    迟
+    迟缓
+@[afraid]
+    胆小
+    胆子小
+    胆量小
+@[attack]
+    冲动
+    攻击
+    打
+@[bedwett]
+    尿床
+    遗尿
+    尿床上
+    控制不住排尿
+    不由自主
+
+@[feeling]
+    感受
+    情绪
+    感觉
+    情感
+
+
+@[lie]
+    撒谎
+    说谎
+    骗人
+    不诚实
+@[jiatui]
+    夹腿
+    夹下面    
+    摩擦会阴
+    摩擦阴部
+    摩擦下面
+@[note]
+    看
+    理
+    理睬
+
+@[nails]
+    指甲
+    手指头
+    手
+    手指
+@[move]
+    多动
+    不专心
+    注意力不集中
+    小动作多
+    容易走神
+    坐不住
+
+@[makeface]
+    挤眉弄眼
+    做鬼脸
+    挤眼睛
+    做怪相
+    清嗓子
+    鼓肚子
+
+@[pressure]
+    压力
+    紧张
+    烦躁
+    沮丧
+@[seperate]
+    分离
+    分开
+    离  
+@[talk_or_walk]
+    走路
+    行走
+    说话
+    发育
+    穿衣服
+    进食
+    吃饭
+    自己穿衣服
+    自己吃饭
+    自己进食
+
+@[things]
+    猫
+    狗
+    鬼
+    打雷
+    闪电
+    打雷闪电
+    打针
+    医生
+    上学
+    学校
+@[rely_on]
+    依赖
+    粘
+    黏
+
+

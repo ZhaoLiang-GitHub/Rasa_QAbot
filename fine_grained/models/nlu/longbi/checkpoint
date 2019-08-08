@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/czt/qa_bot/fine_grained/models/nlu/longbi/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/czt/qa_bot/fine_grained/models/nlu/longbi/intent_classifier_tensorflow_embedding.ckpt"
