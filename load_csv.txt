@@ -1,0 +1,6 @@
+
+LOAD CSV WITH HEADERS  FROM "file:///data.csv" AS line MERGE (p:A{id:toInteger(line.id),question:line.question,performance:line.performance,   introduction:line.introduction,reasons:line.reasons,solution:line.solution})
+
+
+LOAD CSV WITH HEADERS FROM "file:///part_to_project.csv" AS line match (from:Part{paid:toInteger(line.paid)}),(to:Project{id:toInteger(line.id)}) merge (from)-[r:belong_to{id:toInteger(line.id),paid:toInteger(line.paid)}]->(to)
+LOAD CSV WITH HEADERS FROM "file:///doctor_to_project.csv" AS line match (from:Doctor{pid:toInteger(line.pid)}),(to:Project{id:toInteger(line.id)}) merge (from)-[r:good_at{pid:toInteger(line.pid),id:toInteger(line.id)}]->(to)
