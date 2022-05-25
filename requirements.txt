@@ -58,7 +58,7 @@ numpy==1.14.3
 packaging==17.1
 pathlib==1.0.1
 protobuf==3.5.2.post1
-PyJWT==1.6.1
+PyJWT==2.4.0
 pykwalify==1.6.0
 pyparsing==2.2.0
 PySocks==1.6.8
