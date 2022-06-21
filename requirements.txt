@@ -54,7 +54,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 mattermostwrapper==2.1
 networkx==2.1
-numpy==1.14.3
+numpy==1.22.0
 packaging==17.1
 pathlib==1.0.1
 protobuf==3.5.2.post1
