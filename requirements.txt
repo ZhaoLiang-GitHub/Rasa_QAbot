@@ -57,7 +57,7 @@ networkx==2.1
 numpy==1.14.3
 packaging==17.1
 pathlib==1.0.1
-protobuf==3.5.2.post1
+protobuf==3.18.3
 PyJWT==1.6.1
 pykwalify==1.6.0
 pyparsing==2.2.0
